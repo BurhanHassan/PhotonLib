@@ -1,2 +1,2 @@
 # PhotonLib
-The repositors i screated to make a lib, to be available for Spark Photon
+The repositors is screated to make a lib, to be used in Spark Photon.
